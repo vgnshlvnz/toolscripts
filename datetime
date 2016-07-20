@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+
+echo "Today: `date  +%A,%B-%e-%Y`" >$(tty)
+echo "Time: `date +%H%M` Hours `date +%Z`" >$(tty)
