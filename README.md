@@ -6,12 +6,12 @@ To use the scripts,
 
 RPM/DNF/YUM package-manager-like-systems
 
-- ```vim "export PATH=$PATH:/<path-to-dir>/toolscripts" >> /etc/bashrc```
+- ```"export PATH=$PATH:/<path-to-dir>/toolscripts" >> /etc/bashrc```
 - ```source /etc/bashrc```
 
 or
 
 APT-GET/APT package-manager-like-systems
 
-- ```vim "export PATH=$PATH:/<path-to-dir>/toolscripts" >> /etc/bash.bashrc```
+- ```"export PATH=$PATH:/<path-to-dir>/toolscripts" >> /etc/bash.bashrc```
 - ```source /etc/bash.bashrc```
