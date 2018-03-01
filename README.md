@@ -15,3 +15,8 @@ APT-GET/APT package-manager-like-systems
 
 - ```echo "export PATH=$PATH:/<path-to-dir>/toolscripts" >> /etc/bash.bashrc```
 - ```source /etc/bash.bashrc```
+
+
+
+Additional - FreeBSD
+- ```systat -vmstat 1
